@@ -13,4 +13,4 @@ utilizando as tecnologias:</p>
 </h3>
 <br> 
 <ima src="https://github.com/Andreza27/Projeto-03/blob/main/imagem/Captura%20de%20tela%202025-02-10%20173015.png?raw=true" />
-<img src="
+<img src="https://github.com/Andreza27/Projeto-03/blob/main/imagem/Captura%20de%20tela%202025-02-10%20173054.png?raw=true" />
