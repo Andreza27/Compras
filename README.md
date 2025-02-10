@@ -1,4 +1,4 @@
-<h1>Compras Fáceis </h1>
+<h1>Compras Pelo Celular </h1>
 <br>
 <br>
 <h2> Projeto Responsivo </h2>
