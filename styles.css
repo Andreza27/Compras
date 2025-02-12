@@ -16,7 +16,7 @@
 .caixa01{
     display: inline-block;
     width: 65%;
-    margin-top: 15%;
+    margin-top: 12%;
     padding-left: 80px;
     
     
@@ -93,7 +93,8 @@ cursor: pointer;
  .logo-img {
     position: relative;
     right: 23%;
-    top: 80px;
+    top: 107px;
+    height: 73%;
  }
 
  @media screen and (max-width : 1114px) {
