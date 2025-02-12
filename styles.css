@@ -152,8 +152,10 @@ cursor: pointer;
     }
 
     .logo-img{
-        max-width: 80%;
-        position: static;
+        position: relative;
+        height: 75%;
+        width: 108%;
+        margin: -77px 0px 0px -51px;
 
 
     }
