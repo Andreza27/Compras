@@ -16,8 +16,8 @@
 .caixa01{
     display: inline-block;
     width: 65%;
-    margin-top: 12%;
-    padding-left: 80px;
+    margin-top: 18%;
+    padding-left: 205px;
     
     
 }
@@ -104,7 +104,8 @@ cursor: pointer;
         height: auto;
         position: static;
         width: 100%;
-        padding: 40px;
+        padding: 34px;
+        margin: -49px 0px 0px 0px;
     
     }
 
