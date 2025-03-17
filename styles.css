@@ -17,16 +17,16 @@
     display: inline-block;
     width: 65%;
     margin-top: 18%;
-    padding-left: 205px;
+    padding-left: 126px;
     
     
 }
 .title{
-    width: 402px;
+    width: 325px;
     font-family: 'Oswald';
     font-style: normal;
-    font-size: 58px;
-    line-height: 68px;
+    font-size: 47px;
+    line-height: 56px;
     color: #5D5D7D;
    
 
@@ -34,11 +34,11 @@
 .title2 {
     font-weight:400 ;
     font-family: 'Oswald';
-    font-size: 26px;
+    font-size: 21px;
     font-style: normal;
-    line-height:39px ;
+    line-height:32px ;
     color: rgba(93, 93, 125, 1);
-    width: 509px;
+    width: 482px;
     mix-blend-mode: normal;
     margin: 17px 0 25px 0;
     opacity: 0.6;
