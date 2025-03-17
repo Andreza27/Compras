@@ -12,5 +12,5 @@ utilizando as tecnologias:</p>
 - CSS
 </h3>
 <br> 
-<img src="https://github.com/Andreza27/Projeto-03/blob/main/imagem/Captura%20de%20tela%202025-02-10%20173015.png?raw=true" />
-<img src="https://github.com/Andreza27/Projeto-03/blob/main/imagem/Captura%20de%20tela%202025-02-10%20173054.png?raw=true" />
+<img src="https://github.com/user-attachments/assets/d7b10d1a-153e-4d57-a825-b460a066d672" />
+
