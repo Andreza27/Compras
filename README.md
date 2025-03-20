@@ -10,6 +10,9 @@ foi  utilizado as tecnologias:</p>
 <br>
 - CSS
 </h3>
+<h3>Clique no link e veja em sua tela !</h3>
+-https://comprasfaceisres.netlify.app/
 <br> 
+<br>
 <img src="https://github.com/user-attachments/assets/82e3c0e4-1f8c-4419-adf2-69451d52f065" />
 
